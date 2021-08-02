@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Emma!
 - 👀 I’m interested in Java and web development projects.
-- 🌱 I graduated from Carleton in Computer Systems Engineering in 2021 and I'm currently learning JavaScript frameworks like and React, cloud technologies like Azure and AWS, and working on my personal website (https://oddball.cc).
-- I'm currently looking for employment, would love anything full-time involving developing software or web applications/pages.
+- 🌱 I graduated from Computer Systems Engineering at Carleton University in Ottawa, Canada in 2021. 
+- I'm currently learning JavaScript frameworks like React, cloud technologies like Azure and AWS, CI/CD pipeline automation, and working on my personal website (https://oddball.cc).
+- I'm currently open to work, would love anything full-time involving developing software or web applications/pages.
 - 📫 You can reach me best at emma.madds@gmail.com.
 
 <!---
