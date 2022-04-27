@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emma! I'm currently based in Ottawa, Canada.
-- - 🎉 I graduated from Computer Systems Engineering at Carleton University in 2021. 
+- 🎉 I graduated from Computer Systems Engineering at Carleton University in 2021. 
 - 👀 I’m mainly into C#/.NET and web app development/design.
 - 📚 I'm currently learning frameworks like React and Angular, cloud technologies like GCP and AWS, and CI/CD pipeline automation.
 - 💻 I'm currently open to work, and would love anything full-time involving developing software or web applications/pages.
